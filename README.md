@@ -12,7 +12,7 @@ Built with Python and PyQt5, the tool demonstrates advanced concepts in probabil
 
 <br>
 <div align="center">
-  <a href="https://codeload.github.com/TendoPain18/random-variables-stochastic-processes-analyzer/legacy.zip/main">
+  <a href="https://github.com/TendoPain18/random-variables-stochastic-processes-analyzer/raw/main/dist/random-variables-stochastic-processes-analyzer.rar">
     <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
   </a>
 </div>
@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <br>
 <div align="center">
-  <a href="YOUR_DOWNLOAD_LINK_HERE">
+  <a href="https://github.com/TendoPain18/random-variables-stochastic-processes-analyzer/raw/main/dist/random-variables-stochastic-processes-analyzer.rar">
     <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
   </a>
 </div>
